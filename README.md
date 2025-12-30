@@ -26,17 +26,12 @@ I am **Owais Mukhtar Khan**, a dedicated Software Developer focused on building 
 ---
 
 ### 📊 GitHub Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owaismukhtarkhan&show_icons=true&theme=transparent&hide_border=false&title_color=0077b6&icon_color=0077b6&text_color=333" alt="Owais's GitHub Stats" height="170px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaismukhtarkhan&layout=compact&theme=transparent&hide_border=false&title_color=0077b6&text_color=333" alt="Top Languages" height="170px" />
-</div>
 
-<br />
+![Owais's Stats](https://github-readme-stats.vercel.app/api?username=owaismukhtarkhan&show_icons=true&theme=transparent&title_color=0077b6&icon_color=0077b6&text_color=333)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owaismukhtarkhan&theme=transparent&hide_border=false&stroke=0077b6&ring=0077b6&fire=0077b6&currStreakLabel=0077b6" alt="GitHub Streak" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owaismukhtarkhan&layout=compact&theme=transparent&title_color=0077b6&text_color=333)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owaismukhtarkhan&theme=transparent&stroke=0077b6&ring=0077b6&fire=0077b6)
 
 ---
 
