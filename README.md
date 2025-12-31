@@ -61,9 +61,9 @@
 ### 🤝 Connect with me
 <p align="center">
 <a href="https://linkedin.com/in/owaismukhtarkhan" target="blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="120" width="150" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="100" width="130" />
 </a>
 <a href="mailto:owaismukhtarkhan@gmail.com" target="blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="120" width="150" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="95" width="130" />
 </a>
 </p>
