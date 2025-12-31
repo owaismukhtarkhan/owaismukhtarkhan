@@ -20,7 +20,7 @@ I am **Owais Mukhtar Khan**, a dedicated Software Developer focused on building 
 
 ### 🛠 Technical Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,python,cpp,git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,nodejs,python,git,github" />
 </div>
 
 ---
@@ -40,7 +40,7 @@ I am **Owais Mukhtar Khan**, a dedicated Software Developer focused on building 
   <a href="https://www.linkedin.com/in/owais-mukhtar-khan-29601653/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:owaismukhtarkhan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com">
