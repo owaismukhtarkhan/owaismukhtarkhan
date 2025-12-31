@@ -37,7 +37,7 @@ I am **Owais Mukhtar Khan**, a dedicated Software Developer focused on building 
 
 ### 🤝 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/your-username-here">
+  <a href="https://www.linkedin.com/in/owais-mukhtar-khan-29601653/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
