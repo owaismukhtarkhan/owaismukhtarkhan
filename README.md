@@ -16,7 +16,7 @@
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 Goals
 - 🏆 **Mastery:** Become highly proficient in Full-Stack development with **TypeScript**.
 - 🛠 **AI Workflow:** Building custom automation tools using **Gemini** and **Claude** APIs.
 - 📱 **Impact:** Launch a side project that solves a real-world problem using LLMs.
@@ -34,29 +34,28 @@
 
 ### 🛠 Languages and Tools
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
-  <img src="https://raw.githubusercontent.com/anthropic-ai/claude-code/main/assets/claude-icon.png" alt="claude-code" width="40" height="40" style="border-radius: 8px;"/>
-  <img src="https://www.gstatic.com/lamda/images/favicon_v2_192x192.png" alt="gemini-cli" width="40" height="40" style="border-radius: 8px;"/>
 </p>
 
 ---
 
 ### 📊 GitHub Activity & Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=owaismukhtarkhan&show_icons=true&theme=tokyonight" alt="Owais's Stats" height="150" />
   <img src="https://streak-stats.demolab.com/?user=owaismukhtarkhan&theme=tokyonight" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=owaismukhtarkhan&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/owaismukhtarkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owaismukhtarkhan" height="30" width="40" /></a>
 <a href="mailto:owaismukhtarkhan@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="owaismukhtarkhan" height="30" width="40" /></a>
 </p>
