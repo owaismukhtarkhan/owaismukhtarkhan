@@ -24,11 +24,13 @@
 ---
 
 ### ⚡ Skills Proficiency
-![TypeScript](https://img.shields.io/badge/TypeScript-90%25-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-80%25-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-75%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-85%25-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-90%25-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-85%25-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-80%25-339933?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Tailwind-85%25-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+</p>
 
 ---
 
