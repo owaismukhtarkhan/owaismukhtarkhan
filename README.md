@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owais Mukhtar Khan!</h1>
-<h3 align="center">Software Engineer | AI Enthusiast | Web Developer</h3>
+<h3 align="center">Web Developer | Prompt & Context Engineer | Spec-Driven Developer | Agentic AI (Learner)</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=owaismukhtarkhan&label=Profile%20views&color=0e75b6&style=flat" alt="owaismukhtarkhan" />
